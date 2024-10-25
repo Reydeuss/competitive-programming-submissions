@@ -1,4 +1,4 @@
-Copyright (c) 2024 https://github.com/WindeusK/tlx-submissions
+Copyright (c) 2024 https://github.com/Reydeuss/tlx-submissions
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
