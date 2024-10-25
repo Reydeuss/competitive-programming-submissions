@@ -22,6 +22,8 @@ This repository contains solutions to problems from both TLX and LeetCode, organ
 - C++
 - Python
 
+With a few solutions implemented in Java and Rust.
+
 I may add more languages and problem categories in the future as the repository grows.
 
 ## Can I Use These Solutions?
