@@ -1,4 +1,4 @@
-# TLX-LeetCode Solutions
+# Competitive Programming Submissions Collections
 
 ## Overview
 
