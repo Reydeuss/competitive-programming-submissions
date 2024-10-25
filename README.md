@@ -1,26 +1,49 @@
-# TLX-Solutions
+# TLX-LeetCode Solutions
 
-## What's this, anyway?
+## Overview
 
-Well, to tell you the truth, I'm not quite sure what this is supposed to be... When this Git repo started, it was simply meant to be a place to store all my submissions and solutions to the [TLX Website](https://tlx.toki.id). No more, not less.
+Welcome to my repository, a growing collection of solutions to problems from both the [TLX Website](https://tlx.toki.id) and [LeetCode](https://leetcode.com). Originally, this repo was just for my TLX submissions, but I’ve since expanded it to include solutions from LeetCode as well. By making this public, I aim to provide a useful resource for fellow learners in the competitive programming community.
 
-However, I do wish to share it and would be quite glad if my solutions would be used as a reference for people who would like to learn competitive programming. Making this public also opens the opportunity for critique in my solutions.
+I’m excited to share my approaches and open them up for feedback, and I hope these solutions serve as helpful references. As of now, you’ll mostly find code written in C, C++, and Python.
 
-As of the time of writing of this README file, I expect to write most of the code in C, C++, and Python.
+## What Are TLX and LeetCode?
 
-## What's TLX? Why?
+- **[TLX](https://tlx.toki.id)**: A competitive programming platform tailored for an Indonesian audience, TLX is created by [TOKI](https://toki.id) (Tim Olimpiade Komputer Indonesia), the Indonesian Computer Olympiad Team. It offers a wide variety of challenges that sharpen problem-solving skills, focusing on algorithmic thinking.
+  
+- **[LeetCode](https://leetcode.com)**: LeetCode is a globally recognized platform for coding challenges that is widely used by those preparing for technical interviews and enhancing their problem-solving capabilities. It features a large pool of problems that range in difficulty, and its vast community allows for discussions and solutions from diverse perspectives.
 
-[TLX](https://tlx.toki.id) is a Competitive Programming Training platform that is mostly intended for an Indonesian audience, including me. It is basically a clone to Leetcode, but offers a different UI and UX for the users.
+Both platforms are excellent resources for learning and practicing competitive programming skills, and my goal is to build solutions that reflect clear and effective problem-solving techniques.
 
-TLX itself was created by the TOKI (Tim Olimpiade Komputer Indonesia) community, which is Indonesian Computer Olympics Team (yes, I'm just translating. No, I'm not ashamed of it.)
+## What’s Inside?
 
-## Can I use this?
+This repository contains solutions to problems from both TLX and LeetCode, organized by problem type and difficulty level. The languages primarily used are:
 
-Yes, you definitely can. I made this code open source under the [MIT License](https://opensource.org/license/mit). However, I have some disclaimers described by the next section.
+- C
+- C++
+- Python
 
-## *Disclaimers*
-1. The publisher of this Git repo and all of the code inside is not in any way an official partner of TLX, nor are we sponsored, endorsed, or otherwise affiliated in any way with TLX. We are merely another programmer using the platform to learn.
-2. This repo is not meant in any way to facilitate cheating, unsportsmanlike behaviour, or other actions or behaviour that might violate the terms of service of the TLX platform or the unwritten rules of the wider internet.
-3. As such, the publisher is not in any way responsible for any damages, misbehaviour, or any other violation of existing rules, bylaws, or terms of service as highlighted by the 2nd bullet point of the disclaimer.
+I may add more languages and problem categories in the future as the repository grows.
 
-That will be all from me. Happy coding, everyone!
+## Can I Use These Solutions?
+
+Yes! All solutions in this repository are open-source under the [MIT License](https://opensource.org/license/mit). Feel free to use them as references for your learning. However, I urge you to solve the problems on your own first before looking at any solution. Doing so will maximize the learning experience.
+
+## Disclaimers
+
+1. This repository is **not** officially affiliated with TLX, LeetCode, or any other competitive programming platform. The solutions provided here are my own and are shared purely for educational purposes.
+2. The purpose of this repository is to facilitate learning, **not to promote cheating** or any unsportsmanlike behavior that may violate the terms of service of TLX, LeetCode, or any other platform.
+3. I am not liable for any misuse of the code in this repository, and users are expected to follow the rules and guidelines of their respective platforms.
+
+## Contributing
+
+I welcome contributions! If you find any mistakes or have suggestions for improvements, feel free to open a pull request or issue. Collaborative learning benefits everyone.
+
+## Final Thoughts
+
+Whether you’re just getting started with competitive programming or looking for additional problem-solving techniques, I hope you find this repository useful. Don’t hesitate to reach out if you have any feedback or questions.
+
+Happy coding, and may your problem-solving skills grow stronger!
+
+---
+
+This updated README now includes LeetCode as part of the repository's focus and makes it clear that solutions for both platforms will be available. It also emphasizes responsible use of the solutions. Let me know if you need further adjustments!
