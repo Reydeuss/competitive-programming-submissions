@@ -43,7 +43,3 @@ I welcome contributions! If you find any mistakes or have suggestions for improv
 Whether you’re just getting started with competitive programming or looking for additional problem-solving techniques, I hope you find this repository useful. Don’t hesitate to reach out if you have any feedback or questions.
 
 Happy coding, and may your problem-solving skills grow stronger!
-
----
-
-This updated README now includes LeetCode as part of the repository's focus and makes it clear that solutions for both platforms will be available. It also emphasizes responsible use of the solutions. Let me know if you need further adjustments!
