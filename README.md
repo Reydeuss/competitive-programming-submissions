@@ -4,7 +4,7 @@
 
 Welcome to my repository, a growing collection of solutions to problems from both the [TLX Website](https://tlx.toki.id) and [LeetCode](https://leetcode.com). Originally, this repo was just for my TLX submissions, but I’ve since expanded it to include solutions from LeetCode as well. By making this public, I aim to provide a useful resource for fellow learners in the competitive programming community.
 
-I’m excited to share my approaches and open them up for feedback, and I hope these solutions serve as helpful references. As of now, you’ll mostly find code written in C, C++, and Python.
+I’m excited to share my approaches and open them up for feedback, and I hope these solutions serve as helpful references. As of now, you’ll mostly find code written in especially C and Python.
 
 ## What Are TLX and LeetCode?
 
