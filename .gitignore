@@ -1,2 +1,3 @@
 .vscode
 *.exe # Sometimes used for debugging
+*.pdb
