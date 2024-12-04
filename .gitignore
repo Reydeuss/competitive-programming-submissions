@@ -1,3 +1,7 @@
-.vscode/ # Ignore VSCode config files
-*.exe # Sometimes used for debugging
+# Ignore VSCode config files
+.vscode/
+
+# Sometimes used for debugging
+*.exe
+
 *.pdb
