@@ -6,5 +6,5 @@ fn main() {
 
     let x: i32 = input.trim().parse().unwrap();
 
-    println!("1 {x}");
+    println!("1 {}", x);
 }
