@@ -30,7 +30,8 @@ I may add more languages and problem categories in the future as the repository 
 
 ## Can I Use These Solutions?
 
-Yes! All solutions in this repository are open-source under the [MIT License](https://opensource.org/license/mit). Feel free to use them as references for your learning. However, I urge you to solve the problems on your own first before looking at any solution. Doing so will maximize the learning experience.
+You are free to use these solutions in contests without attribution.
+If you redistribute them in other contexts (projects, tutorials, publications), please credit the original author.
 
 ## Disclaimers
 
