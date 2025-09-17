@@ -11,7 +11,7 @@ int main() {
     int i = 0;
     char c;
     bool safe = true;
-    
+
     scanf("%d", &n); getchar();
 
     while (i++ < n) {
