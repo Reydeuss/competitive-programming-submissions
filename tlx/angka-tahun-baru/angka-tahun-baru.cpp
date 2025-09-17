@@ -2,10 +2,9 @@
  * Submission & solution by Reydeus
  * Title: TROC #18 - A. Angka Tahun Baru
  * Original Problem: https://tlx.toki.id/problems/troc-18/A
- * Submission: https://tlx.toki.id/problems/troc-18/A/submissions/4325549
+ * Submission: https://tlx.toki.id/problems/troc-18/A/submissions/4325569
  */
 
-#include <iostream>
 #include <bits/stdc++.h>
 
 bool is_prime(int n)
