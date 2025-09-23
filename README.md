@@ -11,6 +11,7 @@ The repository is publicly accessible for reference and primarily contains code 
 ## Usage
 
 1. Solutions may be used in competitive programming contests without attribution.
+1.a. The author disclaims responsibility of unfair usage of the code, including but not limited to penalties induced if usage is deemed to be unfair.
 2. For redistribution or use in other contexts (projects, tutorials, publications), attribution to the original author is requested, **according to the terms provided in the license**.
 
 ---
@@ -20,3 +21,4 @@ The repository is publicly accessible for reference and primarily contains code 
 1. This repository is **not affiliated** with TLX, LeetCode, Codewars, or any other platform.
 2. All solutions are independently developed and shared publicly.
 3. The author is not responsible for any misuse of the code; users are expected to follow platform rules.
+4. This repository is not meant to facilitate cheating or any others acts violating integrity in academic settings or competitions.
