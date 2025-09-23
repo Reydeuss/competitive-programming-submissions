@@ -11,8 +11,9 @@ The repository is publicly accessible for reference and primarily contains code 
 ## Usage
 
 1. Solutions may be used in competitive programming contests without attribution.
-1.a. The author disclaims responsibility of unfair usage of the code, including but not limited to penalties induced if usage is deemed to be unfair.
 2. For redistribution or use in other contexts (projects, tutorials, publications), attribution to the original author is requested, **according to the terms provided in the license**.
+
+Note: The author disclaims responsibility of unfair usage of the code, including but not limited to penalties induced if usage is deemed to be unfair.
 
 ---
 
