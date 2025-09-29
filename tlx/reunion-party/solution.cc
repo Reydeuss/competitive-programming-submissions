@@ -13,14 +13,14 @@ int f(int t) {
 }
 
 int main() {
-    int n;
-    cin >> n;
+  int n;
+  cin >> n;
 
-    while (n--) {
-        int h;
-        cin >> h;
-        cout << f(h) + 1 << endl;
-    }
+  while (n--) {
+    int h;
+    cin >> h;
+    cout << f(h) + 1 << endl;
+  }
 
-    return 0;
+  return 0;
 }
